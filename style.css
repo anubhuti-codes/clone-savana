@@ -179,7 +179,6 @@ nav {
     background-color: #555;
 }
 
-/* CART SUMMARY STYLES */
 .cart-summary {
     max-width: 600px;
     margin: 3rem auto;
@@ -273,7 +272,6 @@ nav {
     animation: pop 0.8s ease-in-out;
 }
 
-/* Newsletter */
 .newsletter {
     background-color: #f8f9fa;
     padding: 3rem 5%;
@@ -319,7 +317,6 @@ nav {
     background-color: #E6C200;
 }
 
-/* Footer */
 footer {
     background-color: #333;
     color: white;
@@ -442,3 +439,4 @@ footer {
         margin: 0.25rem 0;
     }
 }
+
