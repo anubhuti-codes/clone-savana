@@ -29,4 +29,8 @@ This project was made for **practice and portfolio showcase** — recreating fea
 - **JavaScript (Vanilla)** for interactivity  
 
 ---
+💡 Acknowledgements
+
+Inspired by the original Savana App
+Built for fun, learning, and portfolio purposes
 Made with ♥ by Anubhuti!
